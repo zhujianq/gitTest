@@ -1,4 +1,7 @@
 #include "stdio.h"
 
-vodi function_client) {
+void function_client () {
+}
+
+void function_client_01 () {
 }
