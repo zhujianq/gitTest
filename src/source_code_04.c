@@ -1,4 +1,4 @@
 #include "stdio.h"
 
-vodi function_04444() {
+vodi function_04() {
 }
